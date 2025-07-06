@@ -4,25 +4,13 @@
 
 ![profile_views](https://komarev.com/ghpvc/?username=Clambon80&color=orange&style=for-the-badge)
 
-![card_1](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Clambon80&theme=radical)
-![card_2](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Clambon80&theme=radical)
-![card_3](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Clambon80&theme=radical)
-![card_4](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Clambon80&theme=radical)
-![card_5](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Clambon80&theme=radical&utcOffset=9)
+### Languages Used :octocat:
+
+![card_x](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Clambon80&theme=radical)
+![card_x](https://github-readme-stats.vercel.app/api/top-langs/?username=Clambon80&theme=radical&layout=compact)
+
+### GitHub State 🖥️
 
 ![card 6](https://github-readme-stats.vercel.app/api?username=Clambon80&theme=radical&layout=compact)
-![card 7](https://github-readme-stats.vercel.app/api/top-langs/?username=Clambon80&theme=radical&layout=compact)
-<!--
-**Clambon80/Clambon80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![card_4](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Clambon80&theme=radical)
+![card_1](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Clambon80&theme=radical)
